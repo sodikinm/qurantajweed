@@ -1,4 +1,4 @@
-## Tajweed Highlighting Experiments
+## Eksperimen Sorotan Tajwid
 
 بسم الله الرحمن الرحيم
 *Dengan Menyebut Nama Allah Yang Maha Pengasih lagi Maha Pemurah*
