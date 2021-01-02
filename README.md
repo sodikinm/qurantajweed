@@ -1,24 +1,24 @@
 ## Tajweed Highlighting Experiments
 
 بسم الله الرحمن الرحيم
-*In the name of Allah, Most Gracious, Most Merciful*
+*Dengan Menyebut Nama Allah Yang Maha Pengasih lagi Maha Pemurah*
 
-The purpose of this project is to experiment with "tajweed syntax highlighting," or writing algorithms to color code the various tajweed rules as is found in the tajweed mus7af. There is currently a mode for the standard madani tajweed mus7af and another for the naskh tajweed mus7af (which highlight tajweed slightly differently). The highlighting is based on regex pattern matching in the unicode arabic to find the appropiate tajweeds and apply coloring to them.
+Tujuan dari proyek ini adalah untuk bereksperimen dengan "penyorotan sintaks tajwid," atau menulis algoritma untuk memberi warna kode berbagai aturan tajwid seperti yang ditemukan di mushaf tajwid. Saat ini ada mode untuk mus7af standar dan satu lagi untuk naskh mushaf tajwid (yang menonjolkan tajwid yang sedikit berbeda). Penyorotan didasarkan pada pencocokan pola regex di unicode arabic untuk menemukan tajwid yang sesuai dan menerapkan pewarnaan pada mereka.
 
-# Presently these are patterns that are matched
+# Sekarang ini adalah pola yang cocok
 1. Gunnah
 2. Qalqalah
 3. Iqlab
 4. Idhgham with and with gunnah
 5. Ikhfa
 
-# Others patterns that can be matched
-1. Hamzatul Wasl patterns
-2. Madd elongation for 2 , 4 and 6 
+# Pola lain yang bisa dicocokkan
+1. Pola Hamzatul Wasl
+2. Madd 2 , 4 and 6 harakat 
 
-An issue is already present in our al quran repo
+Masalah sudah ada dalam repo al quran 
 https://gitlab.com/greentech/quran/quran-android/-/issues/284
 
 
-**Note:** this project is still a work in progress. It is by no means complete, nor does it perfectly match the tajweed mus7af yet. It is being open sourced in case people in the community would like to help accelerate its development.
+** Catatan: ** proyek ini masih dalam proses. Ini sama sekali belum lengkap, juga belum cocok dengan mushaf tajwid. Ini adalah open source jika orang-orang di komunitas ingin membantu mempercepat perkembangannya.
 
